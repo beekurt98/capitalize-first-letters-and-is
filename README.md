@@ -1,6 +1,7 @@
 You can enter a full lowercase text and this program will capitalize first letters of each sentence and the lowercase "i" pronouns. 
 
-It works with double quotes. If the text in double quotes ends with a comma (,) then the program will not capitalize it, but if it's a period (.) then it will turn it into uppercase.
+> It works with double quotes. If the text in double quotes ends with a comma (,) then the program will not capitalize it, but if it's a period (.) then it will turn it into uppercase.
+> You can copy the generated text & clear the areas
 
 
 An example lowercase text if you'd like to try (Generated from Blind Text Generator): 
