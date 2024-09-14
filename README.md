@@ -3,9 +3,11 @@ You can enter a full lowercase text and this program will capitalize first lette
 It works with double quotes. If the text in double quotes ends with a comma (,) then the program will not capitalize it, but if it's a period (.) then it will turn it into uppercase.
 
 
-An example lowercase nonsense text if you'd like to try: 
+An example lowercase text if you'd like to try (Generated from Blind Text Generator): 
 
-"hey," he said to his friend. "how's it going? i haven't seen you in a while."
+a wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which i enjoy with my whole heart. i am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.
 
-"it has been a long time, my friend, hasn't it." his friend approached his car. it was red and looked new. 
+i am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that i neglect my talents. i should be incapable of drawing a single stroke at the present moment; and yet i feel that i never was a greater artist than now.
+
+when, while the lovely valley teems with vapour around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, i throw myself down among the tall grass by the trickling stream; and, as i lie close to the earth, a thousand unknown plants are noticed by me: when i hear the buzz of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects and flies, then i feel the presence of the almighty, who formed us in his own image, and the breath
 
