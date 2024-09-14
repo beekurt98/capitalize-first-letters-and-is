@@ -1,0 +1,97 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.site-container {
+    width: 75%;
+    margin: auto;
+    margin-top: 0;
+    height: 100%;
+    background-color:beige;
+}
+
+h1 {
+    text-align: center;
+}
+
+.get-text {
+    display: flex;
+    flex-direction: column;
+    width: 75%;
+    margin: auto;
+}
+
+.output-area {
+    display: flex;
+    flex-direction: column;
+    width: 75%;
+    margin: auto;
+    margin-top: 2%;
+    height: 400px;
+}
+
+#userText {
+    height: 300px;
+    border: 1px solid #c4c4c4;
+    border-radius: 5px;
+
+}
+
+textarea {
+    resize: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 6 12 6 12;
+}
+
+#userText:focus {
+    border: 3px solid hsl(211, 100%, 82%);
+}
+
+button {
+    margin-top: 1%;
+}
+
+label {
+    font-weight: bold;
+}
+
+.output-text-area {
+    height: 300px;
+    background-color: white;
+    border: 1px solid #c4c4c4;
+    border-radius: 5px;
+    padding: 1%;
+    overflow: auto;
+    overflow-x: hidden;
+}
+
+/* width */
+.large-text-cont::-webkit-scrollbar {
+    width: 10px;
+}
+  
+/* Track */
+.large-text-cont::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+}
+
+/* Handle */
+.large-text-cont::-webkit-scrollbar-thumb {
+    background: #888; 
+}
+
+
+.large-text-cont::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+}
+
+/* Handle on hover 
+.large-text-cont::-webkit-scrollbar-button {
+    background-color: #f1f1f1;
+}
+
+.large-text-cont::-webkit-scrollbar-button:hover {
+    background-color: #555;
+}
+*/
